@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.spinner{
+    width: 450px;
+    height: 450px;
+    animation: Spin 2000ms infinite;
+    
+}
